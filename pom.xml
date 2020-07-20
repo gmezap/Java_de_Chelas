@@ -61,7 +61,6 @@
 
 	<build>
 
-    ...
     <plugins>
       <plugin>
         <groupId>com.heroku.sdk</groupId>
