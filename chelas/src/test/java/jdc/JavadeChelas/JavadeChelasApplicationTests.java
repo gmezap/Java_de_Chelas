@@ -1,10 +1,10 @@
-package chelas.demo;
+package jdc.JavadeChelas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class JavadeChelasApplicationTests {
 
 	@Test
 	void contextLoads() {
