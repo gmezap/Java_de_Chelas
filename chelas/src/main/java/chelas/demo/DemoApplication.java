@@ -1,4 +1,4 @@
-package Java.de.Chelas.demo;
+package chelas.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
